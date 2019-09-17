@@ -1,6 +1,7 @@
 {
     "id": "purestorage-fuel-plugins",
-    "filter": "containers",
+    "name": "Pure Storage Fuel Plugins",
+    "filter": "virtualization",
     "image": "http://code.purestorage.com/images/19_FUEL_for_OpenStack.png",
     "featured": 1,
     "priority": 1
