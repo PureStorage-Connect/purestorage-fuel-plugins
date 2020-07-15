@@ -1,6 +1,6 @@
 {
     "id": "purestorage-fuel-plugins",
-    "filter": "containers",
+    "filter": "devops",
     "image": "http://code.purestorage.com/images/19_FUEL_for_OpenStack.png",
     "featured": 0,
     "priority": 3
